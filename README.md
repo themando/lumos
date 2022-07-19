@@ -7,7 +7,7 @@ Lumos is based on the idea that third-party assessment tools should be accessibl
 If you implement this platform, please use the following citation:
 
 `Adarsh, Vivek, Michael Nekrasov, Ellen Zegura, and Elizabeth Belding. 
-"Packet-level overload estimation in LTE networks using passive measurements." 
+"Packet-level Overload Estimation in LTE Networks using Passive Measurements." 
 In Proceedings of the Internet Measurement Conference, pp. 158-164. 2019.`
 
 ```
